@@ -1,0 +1,2 @@
+Press "E" to interact with certain objects, like the Red box or the Green button on the wall
+For some reason, sometimes the input will not register, sooooo keep trying?
